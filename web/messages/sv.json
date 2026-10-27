@@ -1,6 +1,7 @@
 {
   "$schema": "https://inlang.com/schema/inlang-message-format",
   "edit": "Redigera",
+  "manage": "Hantera",
   "done": "Klar",
   "save": "Spara",
   "add": "Lägg till",
@@ -31,6 +32,9 @@
   "project_name": "Listans namn",
   "chores": "Sysslor",
   "new_chore": "Ny syssla",
+  "settings": "Inställningar",
+  "search_chores": "Sök sysslor",
+  "no_matching_chores": "Inga sysslor matchar.",
   "people": "Personer",
   "name": "Namn",
   "this_device": "Den här enheten",

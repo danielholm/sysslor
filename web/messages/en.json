@@ -1,6 +1,7 @@
 {
   "$schema": "https://inlang.com/schema/inlang-message-format",
   "edit": "Edit",
+  "manage": "Manage",
   "done": "Done",
   "save": "Save",
   "add": "Add",
@@ -31,6 +32,9 @@
   "project_name": "List name",
   "chores": "Chores",
   "new_chore": "New chore",
+  "settings": "Settings",
+  "search_chores": "Search chores",
+  "no_matching_chores": "No matching chores.",
   "people": "People",
   "name": "Name",
   "this_device": "This device",
